@@ -1,0 +1,7 @@
+javascript is synchronous and single thread langauge (default javascript behaviour
+
+                                                      c
+Exceucation Context(Global context)....call this one by one 
+
+blocking code ---one by one call(registation use )executed synchronously.
+Non Blocking code ---this is use in when work takes time we want excute another task and when task complete we got notification ...(Excute asynchronously)
